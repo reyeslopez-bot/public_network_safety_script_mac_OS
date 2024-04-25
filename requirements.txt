@@ -1,0 +1,6 @@
+# This file lists the Homebrew packages required for the setup script.
+# It serves documentation purposes and should be used as a reference
+# for ensuring all dependencies are installed.
+
+bash
+wireguard-tools
